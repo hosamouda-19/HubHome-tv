@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpaper_names">
+        <item>Midnight</item>
+        <item>Aurora</item>
+        <item>Dusk</item>
+        <item>Ember</item>
+        <item>Graphite</item>
+        <item>Ocean</item>
+    </string-array>
+</resources>

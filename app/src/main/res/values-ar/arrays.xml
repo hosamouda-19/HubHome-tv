@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpaper_names">
+        <item>منتصف الليل</item>
+        <item>الشفق القطبي</item>
+        <item>الغسق</item>
+        <item>الجمر</item>
+        <item>الجرافيت</item>
+        <item>المحيط</item>
+    </string-array>
+</resources>
